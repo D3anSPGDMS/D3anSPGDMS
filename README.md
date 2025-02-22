@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D3an
-- 👀 I’m interested in Cyber Security and Software Developer from Lemont.
+- 👀 I’m interested in Cyber Security and Software Developer from Lemont. My birth is 1019, 1999.
 - 🌱 I’m currently learning vulnerability analysis.
 - 💞️ I’m looking for friends to study with.
 - 📫 Contact me: dean1019@tutamail.com
